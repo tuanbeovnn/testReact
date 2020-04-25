@@ -1,0 +1,1 @@
+export const NUMBER_SELECTED = 'NUMBER_SELECTED'
